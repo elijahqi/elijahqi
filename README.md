@@ -4,4 +4,4 @@
 
 <br>
 
-<h2 aligh="center"> Languages and Tools: </h2>
+<h2 align="center"> Languages and Tools: </h2>
