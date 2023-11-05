@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> 
-  I'm a passionate software developer working at the <b>Center for Academic Innovation</b> at the University of Michigan. With a background in Computer Science and Data Science, I am keen on leveraging technology to transform educational experiences and foster innovation in academic settings.
+  I'm a passionate software developer(Part-Time) working at the <b>Center for Academic Innovation</b> at the University of Michigan. With a background in Computer Science and Data Science, I am keen on leveraging technology to transform educational experiences and foster innovation in academic settings.
 </p>
 
 <p align="center"> I am also a senior at the University of Michigan majoring in Computer Science and Data Science. </p>
