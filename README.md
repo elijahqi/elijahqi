@@ -10,7 +10,9 @@
 <h2 align="center"> My Tech Stack: </h2>
 
 <p align="center">
-  AWS, Django, Flask, Next.js, TypeScript, Langchain, LlamaIndex, PostgreSQL, MySQL
+  <b>Programming Languages:</b> Python, HTML/CSS, JavaScript/Typescript, C++, SQL, Dart, R <br>
+  <b>Frameworks/Technologies:</b> Django, React, Next.JS, Vue.JS, LangChain, LlamaIndex, Flutter, Webpack, Hadoop <br>
+  <b>Developer Tools:</b> Git, Relational Databases, AWS, Docker, ChromaDB, PM2, MySQL, Linux
 </p>
 
 
