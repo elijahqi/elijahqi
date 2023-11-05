@@ -5,6 +5,8 @@
 
 <p align="center"> I am also a senior at the University of Michigan majoring in Computer Science and Data Science. </p>
 
+<p align="center">I’m currently working on a personal project with Leon, see prototype: <a href="https://mlabhub.com" target="_blank">mlabhub.com</a>, a collection of research lab information in Umich.</p>
+
 <br>
 
 <h2 align="center"> My Tech Stack: </h2>
