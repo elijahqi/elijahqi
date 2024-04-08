@@ -5,7 +5,7 @@
 <p align="center">
   At Hughes Network Systems, my role involves:
 </p>
-<ul align="center">
+<ul align="left">
   <li>Developing gateway and real-time modem software within the mobility team of Jupiter Technology, aimed at delivering high-speed, reliable internet connectivity for aircraft and maritime vessels.</li>
   <li>Leading the design and execution of a multithreaded, centralized component that enhances beam switching processes, enabling seamless handshaking and maintaining continuous internet connectivity in dynamic environments.</li>
   <li>Possessing deep expertise in networking protocols, the TCP/IP stack, and developing proprietary algorithms for scheduling and load balancing to optimize network performance.</li>
