@@ -1,18 +1,23 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> 
-  I'm a passionate software developer(Part-Time) working at the <b>Center for Academic Innovation</b> at the University of Michigan. With a background in Computer Science and Data Science, I am keen on leveraging technology to transform educational experiences and foster innovation in academic settings.
+  I'm a passionate software developer working at <b>Echostar/ Hughes Network System </b>.
 </p>
+<p align="center">
+  At Hughes Network Systems, my role involves:
+</p>
+<ul align="center">
+  <li>Developing gateway and real-time modem software within the mobility team of Jupiter Technology, aimed at delivering high-speed, reliable internet connectivity for aircraft and maritime vessels.</li>
+  <li>Leading the design and execution of a multithreaded, centralized component that enhances beam switching processes, enabling seamless handshaking and maintaining continuous internet connectivity in dynamic environments.</li>
+  <li>Possessing deep expertise in networking protocols, the TCP/IP stack, and developing proprietary algorithms for scheduling and load balancing to optimize network performance.</li>
+</ul>
 
-<p align="center"> I am also a senior at the University of Michigan majoring in Computer Science and Data Science. </p>
-
-<p align="center">I’m currently working on a personal project with Leon, see prototype: <a href="http://mlabhub.com" target="_blank">mlabhub.com</a>, a collection of research lab information in Umich.</p>
 
 <br>
 
 <h2 align="center"> My Tech Stack: </h2>
 
 <p align="center">
-  <b>Programming Languages:</b> Python, HTML/CSS, JavaScript/Typescript, C++, SQL, Dart, R <br>
+  <b>Programming Languages:</b> C/C++, Python, HTML/CSS, JavaScript/Typescript, SQL, Dart, R <br>
   <b>Frameworks/Technologies:</b> Django, React, Next.JS, Vue.JS, LangChain, LlamaIndex, Flutter, Webpack, Hadoop <br>
   <b>Developer Tools:</b> Git, Relational Databases, AWS, Docker, ChromaDB, PM2, MySQL, Linux
 </p>
