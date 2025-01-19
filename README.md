@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> 
-  I'm a passionate software developer working at <b>Echostar/ Hughes Network System </b>.
+  I'm a passionate software developer working at <b>TikTok </b>. Ex-Hughes
 </p>
 <p align="center">
   At Hughes Network Systems, my role involves:
